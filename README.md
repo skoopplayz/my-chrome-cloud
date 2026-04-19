@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Chromium Desktop in GitHub Codespaces  
+# Chromium Desktop in Codespaces  
 ### via noVNC + Fluxbox + Xvfb
 
 Run a full Linux desktop environment — including Chromium — directly inside **GitHub Codespaces**, viewable in your browser through **noVNC**.
@@ -11,7 +11,7 @@ Run a full Linux desktop environment — including Chromium — directly inside 
 
 <div align="center">
 
-## 📦 Features
+## Features
 
 </div>
 
@@ -27,7 +27,7 @@ Run a full Linux desktop environment — including Chromium — directly inside 
 
 <div align="center">
 
-## ▶️ Getting Started
+## Getting Started
 
 </div>
 
