@@ -39,6 +39,7 @@ chmod +x start-vnc.sh
 
 ./start-vnc.sh
 
+</div>
 To fully shut down the virtual desktop, VNC server, noVNC proxy, and Chromium browser, run the following commands in your Codespace terminal:
 
 ```bash
