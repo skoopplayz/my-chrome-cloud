@@ -35,3 +35,12 @@ Run a full Linux desktop environment — including Chromium — directly inside 
 
 ```bash
 chmod +x start-vnc.sh
+
+./start-vnc.sh
+
+pkill Xvfb
+pkill fluxbox
+pkill x11vnc
+pkill websockify
+pkill chromium
+
