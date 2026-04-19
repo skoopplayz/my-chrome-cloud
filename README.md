@@ -31,18 +31,18 @@ Run a full Linux desktop environment — including Chromium — directly inside 
 
 </div>
 
-### **1. Make the script executable**
+### **1. Setup in Terminal
 
-```bash
+Make Executable
 chmod +x start-vnc.sh
 
+Start:
 
 ./start-vnc.sh
 
-</div>
-To fully shut down the virtual desktop, VNC server, noVNC proxy, and Chromium browser, run the following commands in your Codespace terminal:
 
-```bash
+Shut Down:
+
 pkill Xvfb
 pkill fluxbox
 pkill x11vnc
