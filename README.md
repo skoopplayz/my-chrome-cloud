@@ -35,10 +35,11 @@ Run a full Linux desktop environment — including Chromium — directly inside 
 
 ```bash
 chmod +x start-vnc.sh
-```bash
+
+
 ./start-vnc.sh
 
-### End Everything
+To fully shut down the virtual desktop, VNC server, noVNC proxy, and Chromium browser, run the following commands in your Codespace terminal:
 
 ```bash
 pkill Xvfb
