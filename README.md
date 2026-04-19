@@ -33,15 +33,16 @@ Run a full Linux desktop environment — including Chromium — directly inside 
 
 ### **1. Setup in Terminal
 
-Make Executable
+# Make Executable
+
 chmod +x start-vnc.sh
 
-Start:
+# Start
 
 ./start-vnc.sh
 
 
-Shut Down:
+# Shut Down
 
 pkill Xvfb
 pkill fluxbox
